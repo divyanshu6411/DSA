@@ -1,2 +1,2 @@
 # DSA
-This is my repo dsa 
+Repository for DSA.
